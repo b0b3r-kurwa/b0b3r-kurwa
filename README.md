@@ -22,9 +22,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff)
+![Stats](https://github-readme-stats.vercel.app/api?username=b0b3r-kurwa&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b0b3r-kurwa&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=<USERNAME>&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=b0b3r-kurwa&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=true)
 
 </div>
 
