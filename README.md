@@ -14,4 +14,4 @@
 ## About
 Cybersecurity student from Russia
 
-Make much telegram bots,scrappers and automatisations
+Make much telegram bots,scrappers and automatizations
